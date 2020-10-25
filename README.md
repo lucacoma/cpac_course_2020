@@ -13,3 +13,6 @@ The repository is set as public (everybody can clone it), but only professor and
 The course is organized with a Slack Workspace used to share links and have a more prompt communication with students.
 
 Join the workspace by following invitation links in the Beep portal or asking professor Zanoni.
+
+
+CIAOOOO
